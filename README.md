@@ -12,7 +12,7 @@ Currently, I'm working on various projects that leverage ExpressJS for server-si
 
 
 <h4>Get in Touch</h4>
-📫 Feel free to reach out to me via email at 000workemail000@gmail.com. <br>
+📫 Feel free to reach out to me via email at 000fulldev100@gmail.com. <br>
 💼 Connect with me.
 
 
