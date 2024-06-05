@@ -11,11 +11,6 @@ Also I have developed some projects using Java, Spring Boot, Java Swing.
 Currently, I'm working on various projects that leverage ExpressJS for server-side development and Canvas JS for client-side graphics. These projects range from data visualization dashboards to interactive gaming experiences, showcasing the versatility and power of these technologies when combined effectively.
 
 
-<h4>Get in Touch</h4>
-📫 Feel free to reach out to me via telegram @supcoderman. <br>
-💼 Connect with me.
-
-
 <h4>Let's Collaborate</h4>
 I'm always open to collaboration and new opportunities! If you're interested in working together on a project or have any ideas to discuss, don't hesitate to get in touch. Let's build something amazing together!
 
