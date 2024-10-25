@@ -1,7 +1,7 @@
 <h2>Hi there! 👋</h2>
 
 <h4>About Me</h4>
-I have over 10 years of experience in web development, with a strong background in JavaScript and its associated frameworks and libraries(Angular/React/Vue), Ruby on Rails, .Net. My journey in software engineering has led me to explore the intersection of backend and frontend technologies, allowing me to create robust and visually appealing applications that provide seamless user experiences.
+I have over 10 years of experience in web development, with a strong background in JavaScript and its associated frameworks and libraries(Angular/React/Vue), Ruby on Rails, Django, .Net. My journey in software engineering has led me to explore the intersection of backend and frontend technologies, allowing me to create robust and visually appealing applications that provide seamless user experiences.
 Also I have special skills with SCADA development.. familiar with Python, Mqtt, C#, Wordpress.
 Also I have developed some projects using Java, Spring Boot, Java Swing.
 
