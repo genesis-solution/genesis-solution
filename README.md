@@ -1,6 +1,6 @@
-# Hello, I'm Genesis Solution! 👋
+# Welcome to my GitHub profile!
 
-Welcome to my GitHub profile! I'm a passionate software developer with over 10 years of experience in web development. My journey in software engineering has led me to explore the intersection of backend and frontend technologies, allowing me to create robust and visually appealing applications that provide seamless user experiences.
+I'm a passionate software developer with over 10 years of experience in web development. My journey in software engineering has led me to explore the intersection of backend and frontend technologies, allowing me to create robust and visually appealing applications that provide seamless user experiences.
 
 ## 🔧 Technologies & Tools
 
