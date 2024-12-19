@@ -29,7 +29,7 @@ Feel free to connect with me on the following platforms:
 ## 📈 GitHub Stats
 
 ![Genesis Solution's GitHub stats](https://github-readme-stats.vercel.app/api?username=genesis-solution&show_icons=true&theme=radical)
-![Genesis Solution's Streak](https://github-readme-streak-stats.herokuapp.com/?user=genesis-solution&theme=radical)
+(https://github-readme-streak-stats.herokuapp.com/?user=genesis-solution&theme=radical)
 ![Genesis Solution's Trophy](https://github-profile-trophy.vercel.app/?username=genesis-solution&theme=radical)
 
 Thanks for visiting my profile! Let's collaborate and build something amazing together! 🚀
