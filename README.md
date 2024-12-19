@@ -23,7 +23,6 @@ I'm always striving to learn new things and improve my skills. Currently, I'm fo
 
 Feel free to connect with me on the following platforms:
 
-- [LinkedIn](https://www.linkedin.com/in/jon-c-rann/)
 - [Email](mailto:admin@theprojectgenesis.net)
 
 ## 📈 GitHub Stats
