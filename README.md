@@ -19,12 +19,6 @@ I'm always striving to learn new things and improve my skills. Currently, I'm fo
 - Machine learning and AI
 - Cloud-native application development
 
-## 📫 How to Reach Me
-
-Feel free to connect with me on the following platforms:
-
-- [Email](mailto:admin@theprojectgenesis.net)
-
 ## 📈 GitHub Stats
 
 ![Genesis Solution's GitHub stats](https://github-readme-stats.vercel.app/api?username=genesis-solution&show_icons=true&theme=radical)
